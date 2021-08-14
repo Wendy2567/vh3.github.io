@@ -1,0 +1,50 @@
+html {font-family: 'Style Script', cursive;
+background-color: cadetblue;}
+
+body {background-color: cornflowerblue;
+padding: 20px 20px 20px 20px ;
+margin: 2px auto;
+border: 10px solid rgb(30, 99, 84);
+width: 1200px;}
+
+h1 {color: lightgreen;
+    font-size: 40px;
+ font-family: 'Style Script', cursive;
+margin: 0;
+padding:  20px 0;
+text-shadow: 4px 2px 2px black; }
+
+#mybaby {font-family:'Style Script', cursive;
+        font-size: 50px;
+    text-align: center;
+    color:purple}
+
+p { font-size: 20px;
+    color: darkmagenta;
+    font-family: 'Hahmlet', serif;
+line-height: 1; }
+a:hover {color: pink}
+
+#im1 { width:300px;
+    height: 500px;}
+#im2 { width:300px;
+    height: 500px;}
+
+.img {
+    width: 50%;
+    padding: 5px;
+    float: left;
+    text-align: center;
+}
+
+.row:after {
+    display: table;
+    clear: both;
+    content: " ";
+}   
+
+
+input {background-color: lightblue;
+border: 2px solid darkblue}
+
+button {background-color: gray;}
