@@ -26,5 +26,5 @@ let saybye = document.getElementById('Bye')
 saybye.onclick = function textchange() {saybye.textContent = 'LoVe you~'}
 saybye.onclick = function retext() {saybye.textContent = 'Goodbye!'}
 
-if (saybye.textContent = 'Goodbye!') {textchange();}
+if (saybye = 'Goodbye!') {textchange();}
 else {retext();}
