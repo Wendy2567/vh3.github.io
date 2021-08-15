@@ -25,4 +25,3 @@ mybutton.onclick = function() {setUserName();}
 let saybye = document.getElementById('Bye');
 saybye.onclick = function textchange() {saybye.textContent = 'LoVe you~'}
 
-if (saybye = 'LoVe you~') {saybye.onclick.textContent = 'Goodbye!'}
