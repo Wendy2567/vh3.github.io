@@ -21,10 +21,8 @@ else {
 
 mybutton.onclick = function() {setUserName();}
 
+//goodbye và loveyou
 let saybye = document.getElementById('Bye')
-
 saybye.onclick = function textchange() {saybye.textContent = 'LoVe you~'}
-saybye.onclick = function retext() {saybye.textContent = 'Goodbye!'}
 
-if (saybye = 'Goodbye!') {textchange();}
-else {retext();}
+if (saybye.textContent = 'LoVe you~') {saybye.onclick = saybye.textContent = 'Goodbye!'} 
